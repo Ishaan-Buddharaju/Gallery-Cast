@@ -1,4 +1,4 @@
-# Open Gallery
+# Gallery Cast
 
 A self-hosted gallery wall service that can run on memory constrainted devices. People can send in photos via your email, sms, or website then they're injested into a single normalized pipeline, and a full-screen web view displays the accepted submissions as a dynamic, animated gallery wall. 
 
